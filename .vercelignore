@@ -1,0 +1,7 @@
+archive/
+docs/
+node_modules/
+dist/
+.git/
+release/
+*.log

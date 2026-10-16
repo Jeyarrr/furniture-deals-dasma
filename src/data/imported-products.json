@@ -1,0 +1,796 @@
+[
+  {
+    "id": "fd-484811996",
+    "slug": "gray-tufted-bed-frame",
+    "name": "Gray Tufted Bed Frame",
+    "category": "bed-frames",
+    "images": [
+      "/images/products/gray-tufted-bed-frame.jpg"
+    ],
+    "description": "Explore this gray tufted bed frame from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": true,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485372330",
+    "slug": "wooden-bunk-bed-with-pull-out",
+    "name": "Wooden Bunk Bed with Pull-out",
+    "category": "bunk-beds",
+    "images": [
+      "/images/products/wooden-bunk-bed-with-pull-out.jpg"
+    ],
+    "description": "Explore this wooden bunk bed with pull-out from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485727059",
+    "slug": "natural-finish-bed-frame",
+    "name": "Natural Finish Bed Frame",
+    "category": "bed-frames",
+    "images": [
+      "/images/products/natural-finish-bed-frame.jpg"
+    ],
+    "description": "Explore this natural finish bed frame from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485728952",
+    "slug": "gray-storage-bed-frame",
+    "name": "Gray Storage Bed Frame",
+    "category": "bed-frames",
+    "images": [
+      "/images/products/gray-storage-bed-frame.jpg"
+    ],
+    "description": "Explore this gray storage bed frame from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-486469365",
+    "slug": "cream-panel-bed-frame",
+    "name": "Cream Panel Bed Frame",
+    "category": "bed-frames",
+    "images": [
+      "/images/products/cream-panel-bed-frame.jpg"
+    ],
+    "description": "Explore this cream panel bed frame from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-486124747",
+    "slug": "classic-wooden-bunk-bed",
+    "name": "Classic Wooden Bunk Bed",
+    "category": "bunk-beds",
+    "images": [
+      "/images/products/classic-wooden-bunk-bed.jpg"
+    ],
+    "description": "Explore this classic wooden bunk bed from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": true,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-486511451",
+    "slug": "white-bunk-bed-with-pull-out",
+    "name": "White Bunk Bed with Pull-out",
+    "category": "bunk-beds",
+    "images": [
+      "/images/products/white-bunk-bed-with-pull-out.jpg"
+    ],
+    "description": "Explore this white bunk bed with pull-out from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-491764542",
+    "slug": "wooden-bunk-bed-room-setup",
+    "name": "Wooden Bunk Bed Room Setup",
+    "category": "bunk-beds",
+    "images": [
+      "/images/products/wooden-bunk-bed-room-setup.jpg"
+    ],
+    "description": "Explore this wooden bunk bed room setup from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-555974911",
+    "slug": "natural-finish-bunk-bed",
+    "name": "Natural Finish Bunk Bed",
+    "category": "bunk-beds",
+    "images": [
+      "/images/products/natural-finish-bunk-bed.jpg"
+    ],
+    "description": "Explore this natural finish bunk bed from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-724024668",
+    "slug": "dark-wood-bunk-bed-setup",
+    "name": "Dark Wood Bunk Bed Setup",
+    "category": "bunk-beds",
+    "images": [
+      "/images/products/dark-wood-bunk-bed-setup.jpg"
+    ],
+    "description": "Explore this dark wood bunk bed setup from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-484803654",
+    "slug": "classic-dining-set-with-bench",
+    "name": "Classic Dining Set with Bench",
+    "category": "dining-sets",
+    "images": [
+      "/images/products/classic-dining-set-with-bench.jpg"
+    ],
+    "description": "Explore this classic dining set with bench from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": true,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-484997681",
+    "slug": "upholstered-dining-set",
+    "name": "Upholstered Dining Set",
+    "category": "dining-sets",
+    "images": [
+      "/images/products/upholstered-dining-set.jpg"
+    ],
+    "description": "Explore this upholstered dining set from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485324848",
+    "slug": "round-dining-set",
+    "name": "Round Dining Set",
+    "category": "dining-sets",
+    "images": [
+      "/images/products/round-dining-set.jpg"
+    ],
+    "description": "Explore this round dining set from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485592781",
+    "slug": "glass-top-dining-set",
+    "name": "Glass-top Dining Set",
+    "category": "dining-sets",
+    "images": [
+      "/images/products/glass-top-dining-set.jpg"
+    ],
+    "description": "Explore this glass-top dining set from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485604177",
+    "slug": "oval-dining-set",
+    "name": "Oval Dining Set",
+    "category": "dining-sets",
+    "images": [
+      "/images/products/oval-dining-set.jpg"
+    ],
+    "description": "Explore this oval dining set from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485957462",
+    "slug": "double-recliner",
+    "name": "Double Recliner",
+    "category": "recliners",
+    "images": [
+      "/images/products/double-recliner.jpg"
+    ],
+    "description": "Explore this double recliner from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": true,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-486315349",
+    "slug": "console-double-recliner",
+    "name": "Console Double Recliner",
+    "category": "recliners",
+    "images": [
+      "/images/products/console-double-recliner.jpg"
+    ],
+    "description": "Explore this console double recliner from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-486354703",
+    "slug": "black-recliner-with-cup-holders",
+    "name": "Black Recliner with Cup Holders",
+    "category": "recliners",
+    "images": [
+      "/images/products/black-recliner-with-cup-holders.jpg"
+    ],
+    "description": "Explore this black recliner with cup holders from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-490901281",
+    "slug": "gray-tufted-recliner",
+    "name": "Gray Tufted Recliner",
+    "category": "recliners",
+    "images": [
+      "/images/products/gray-tufted-recliner.jpg"
+    ],
+    "description": "Explore this gray tufted recliner from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-490981282",
+    "slug": "light-gray-recliner",
+    "name": "Light Gray Recliner",
+    "category": "recliners",
+    "images": [
+      "/images/products/light-gray-recliner.jpg"
+    ],
+    "description": "Explore this light gray recliner from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-486142582",
+    "slug": "sephora-cloud-couch",
+    "name": "Sephora Cloud Couch",
+    "category": "signature-sofas",
+    "images": [
+      "/images/products/sephora-cloud-couch.jpg"
+    ],
+    "description": "A distinctive piece from our Signature Sofa Collection. Ask the showroom about available finishes and configurations.",
+    "featured": true,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-486146999",
+    "slug": "monaco-sofa",
+    "name": "Monaco Sofa",
+    "category": "signature-sofas",
+    "images": [
+      "/images/products/monaco-sofa.jpg"
+    ],
+    "description": "A distinctive piece from our Signature Sofa Collection. Ask the showroom about available finishes and configurations.",
+    "featured": false,
+    "price": 23500,
+    "salePrice": null,
+    "dimensions": "92 × 92 inches",
+    "materials": "Uratex foam",
+    "colors": [],
+    "availability": null,
+    "imageEdited": true,
+    "priceSource": "photo"
+  },
+  {
+    "id": "fd-486451480",
+    "slug": "lexumburg-sofa",
+    "name": "Lexumburg Sofa",
+    "category": "signature-sofas",
+    "images": [
+      "/images/products/lexumburg-sofa.jpg"
+    ],
+    "description": "A distinctive piece from our Signature Sofa Collection. Ask the showroom about available finishes and configurations.",
+    "featured": false,
+    "price": 26500,
+    "salePrice": null,
+    "dimensions": "100 × 70 inches",
+    "materials": "Uratex foam",
+    "colors": [],
+    "availability": null,
+    "imageEdited": true,
+    "priceSource": "photo"
+  },
+  {
+    "id": "fd-486668812",
+    "slug": "velaryon-sofa-set",
+    "name": "Velaryon Sofa Set",
+    "category": "signature-sofas",
+    "images": [
+      "/images/products/velaryon-sofa-set.jpg"
+    ],
+    "description": "A distinctive piece from our Signature Sofa Collection. Ask the showroom about available finishes and configurations.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": "Uratex foam; canvas fabric",
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-486679563",
+    "slug": "lockhart-sofa-set",
+    "name": "Lockhart Sofa Set",
+    "category": "signature-sofas",
+    "images": [
+      "/images/products/lockhart-sofa-set.jpg"
+    ],
+    "description": "A distinctive piece from our Signature Sofa Collection. Ask the showroom about available finishes and configurations.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-487119532",
+    "slug": "trojan-sofa",
+    "name": "Trojan Sofa",
+    "category": "signature-sofas",
+    "images": [
+      "/images/products/trojan-sofa.jpg"
+    ],
+    "description": "A distinctive piece from our Signature Sofa Collection. Ask the showroom about available finishes and configurations.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": "91 × 72 inches",
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-487528486",
+    "slug": "beru-sofa",
+    "name": "Beru Sofa",
+    "category": "signature-sofas",
+    "images": [
+      "/images/products/beru-sofa.jpg"
+    ],
+    "description": "A distinctive piece from our Signature Sofa Collection. Ask the showroom about available finishes and configurations.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": "120 × 70 inches",
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-491223496",
+    "slug": "kaisel-sofa",
+    "name": "Kaisel Sofa",
+    "category": "signature-sofas",
+    "images": [
+      "/images/products/kaisel-sofa.jpg"
+    ],
+    "description": "A distinctive piece from our Signature Sofa Collection. Ask the showroom about available finishes and configurations.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": "90 × 60 inches",
+    "materials": "Uratex foam",
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-495574309",
+    "slug": "snow-curve-sofa",
+    "name": "Snow Curve Sofa",
+    "category": "signature-sofas",
+    "images": [
+      "/images/products/snow-curve-sofa.jpg"
+    ],
+    "description": "A distinctive piece from our Signature Sofa Collection. Ask the showroom about available finishes and configurations.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-484793180",
+    "slug": "black-corner-sofa",
+    "name": "Black Corner Sofa",
+    "category": "sofa-sets",
+    "images": [
+      "/images/products/black-corner-sofa.jpg"
+    ],
+    "description": "Explore this black corner sofa from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": true,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-484809719",
+    "slug": "gray-sectional-with-ottoman",
+    "name": "Gray Sectional with Ottoman",
+    "category": "sofa-sets",
+    "images": [
+      "/images/products/gray-sectional-with-ottoman.jpg"
+    ],
+    "description": "Explore this gray sectional with ottoman from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-484956580",
+    "slug": "cream-corner-sofa",
+    "name": "Cream Corner Sofa",
+    "category": "sofa-sets",
+    "images": [
+      "/images/products/cream-corner-sofa.jpg"
+    ],
+    "description": "Explore this cream corner sofa from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485380993",
+    "slug": "brown-sofa-with-ottomans",
+    "name": "Brown Sofa with Ottomans",
+    "category": "sofa-sets",
+    "images": [
+      "/images/products/brown-sofa-with-ottomans.jpg"
+    ],
+    "description": "Explore this brown sofa with ottomans from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-486069178",
+    "slug": "ivory-chaise-sofa",
+    "name": "Ivory Chaise Sofa",
+    "category": "sofa-sets",
+    "images": [
+      "/images/products/ivory-chaise-sofa.jpg"
+    ],
+    "description": "Explore this ivory chaise sofa from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-484805716",
+    "slug": "black-tufted-sofa-bed",
+    "name": "Black Tufted Sofa Bed",
+    "category": "sofa-beds",
+    "images": [
+      "/images/products/black-tufted-sofa-bed.jpg"
+    ],
+    "description": "Explore this black tufted sofa bed from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": true,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-484837489",
+    "slug": "striped-sofa-bed",
+    "name": "Striped Sofa Bed",
+    "category": "sofa-beds",
+    "images": [
+      "/images/products/striped-sofa-bed.jpg"
+    ],
+    "description": "Explore this striped sofa bed from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485355754",
+    "slug": "patchwork-sofa-bed",
+    "name": "Patchwork Sofa Bed",
+    "category": "sofa-beds",
+    "images": [
+      "/images/products/patchwork-sofa-bed.jpg"
+    ],
+    "description": "Explore this patchwork sofa bed from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485723003",
+    "slug": "gray-pull-out-sofa-bed",
+    "name": "Gray Pull-out Sofa Bed",
+    "category": "sofa-beds",
+    "images": [
+      "/images/products/gray-pull-out-sofa-bed.jpg"
+    ],
+    "description": "Explore this gray pull-out sofa bed from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485769167",
+    "slug": "cream-sofa-bed",
+    "name": "Cream Sofa Bed",
+    "category": "sofa-beds",
+    "images": [
+      "/images/products/cream-sofa-bed.jpg"
+    ],
+    "description": "Explore this cream sofa bed from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-484925949",
+    "slug": "two-tone-vanity-wardrobe",
+    "name": "Two-tone Vanity Wardrobe",
+    "category": "wardrobes",
+    "images": [
+      "/images/products/two-tone-vanity-wardrobe.jpg"
+    ],
+    "description": "Explore this two-tone vanity wardrobe from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": true,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485152977",
+    "slug": "dark-finish-wardrobe",
+    "name": "Dark Finish Wardrobe",
+    "category": "wardrobes",
+    "images": [
+      "/images/products/dark-finish-wardrobe.jpg"
+    ],
+    "description": "Explore this dark finish wardrobe from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485650094",
+    "slug": "white-wardrobe-with-nine-drawers",
+    "name": "White Wardrobe with Nine Drawers",
+    "category": "wardrobes",
+    "images": [
+      "/images/products/white-wardrobe-with-nine-drawers.jpg"
+    ],
+    "description": "Explore this white wardrobe with nine drawers from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485758365",
+    "slug": "white-mirrored-wardrobe",
+    "name": "White Mirrored Wardrobe",
+    "category": "wardrobes",
+    "images": [
+      "/images/products/white-mirrored-wardrobe.jpg"
+    ],
+    "description": "Explore this white mirrored wardrobe from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  },
+  {
+    "id": "fd-485993010",
+    "slug": "woodgrain-three-door-wardrobe",
+    "name": "Woodgrain Three-door Wardrobe",
+    "category": "wardrobes",
+    "images": [
+      "/images/products/woodgrain-three-door-wardrobe.jpg"
+    ],
+    "description": "Explore this woodgrain three-door wardrobe from our furniture photo collection. Ask the showroom about sizes, finishes, and what is included.",
+    "featured": false,
+    "price": null,
+    "salePrice": null,
+    "dimensions": null,
+    "materials": null,
+    "colors": [],
+    "availability": null,
+    "imageEdited": true
+  }
+]
