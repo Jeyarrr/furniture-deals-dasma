@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react'
+import { useLayoutEffect, useRef } from 'react'
 
 let locks = 0
 let originalOverflow = ''
@@ -6,7 +6,7 @@ let originalOverflow = ''
 // Shared lock prevents nested product/inquiry dialogs from unlocking the page early.
 export function useModal(open) {
   const ref = useRef(null)
-  useEffect(() => {
+  useLayoutEffect(() => {
     const element = ref.current
     if (!open) return
     const trigger = document.activeElement

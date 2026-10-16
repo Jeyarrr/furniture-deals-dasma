@@ -3,12 +3,13 @@ import { ArrowLeft, ArrowRight, Copy, MessageCircle, Minus, Plus, ShoppingBag, T
 import { StoreLink as Link } from './StoreLink'
 import { products } from '../data/catalog'
 import { business } from '../data/business'
-import { useStore } from '../context/StoreContext'
+import { useDrawerOpen, useStore } from '../context/StoreContext'
 import { useModal } from '../hooks/useModal'
 import { displayPrice } from '../utils/price'
 
 export function InquiryDrawer() {
-  const { inquiry, drawerOpen, setDrawerOpen, updateQuantity, removeInquiry, clearInquiry } = useStore()
+  const { inquiry, setDrawerOpen, updateQuantity, removeInquiry, clearInquiry } = useStore()
+  const drawerOpen = useDrawerOpen()
   const dialog = useModal(drawerOpen)
   const [review, setReview] = useState(false)
   const [copyStatus, setCopyStatus] = useState('')
